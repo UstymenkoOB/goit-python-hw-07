@@ -1,2 +1,2 @@
-# goit-python-hw-06
- Home work #6
+# goit-python-hw-07
+ Home work #7
